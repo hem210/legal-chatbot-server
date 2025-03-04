@@ -1,0 +1,5 @@
+HF_TOKEN = ""
+PC_KEY = ""
+
+MAX_RET_DOCS = 10
+MAX_SCORE = 0.8
